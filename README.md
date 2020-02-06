@@ -1,1 +1,3 @@
-# easysdi.github.io
+# easySDI
+
+see https://easysdi.org
